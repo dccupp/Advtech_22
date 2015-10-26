@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+div {
+    /*background-color:red;
+    width:20px;
+    height:20px;
+    border-radius:10px;
+    /* let them overlap each other */
+    position:absolute;*/
+    /* If width of this ever changes, make the change happen over a 2 second duration, after a .5 second delay, with easing
+    transition: width 2s .5s ease-out; */
+}
